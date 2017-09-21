@@ -1,0 +1,19 @@
+{
+  "contracts": ["app/contracts/**"],
+  "app": {
+    "css/app.css": ["app/css/**", "app/materialize/css/materialize.css"],
+    "images/": ["app/images/**"],
+    "js/app.js": [
+	"embark.js", 
+	"app/js/_vendor/jquery.min.js", 
+	"app/js/_vendor/bootstrap.min.js", 
+	"app/js/**",
+	"app/materialize/js/materialize.js"
+	],
+    "index.html": "app/index.html"
+  },
+  "buildDir": "dist/",
+  "config": "config/",
+  "plugins": {
+  }
+}

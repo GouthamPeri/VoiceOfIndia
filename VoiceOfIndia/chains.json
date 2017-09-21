@@ -1,0 +1,19 @@
+{
+  "0x3dfcac7c81255e5a1b2cdaf7feac63eb47011610ea76b016c98fa50103b8b3b4": {
+    "contracts": {
+      "0xc810de4f2d6ae4cd2cf47f2b71eff7a850ba1521035e733b5c86c8c27d9deec4": {
+        "name": "TweetRegistry",
+        "address": "0x9c0afa7a652b3fcda192d2751e3f7f5615f58e09"
+      },
+      "0xbbdac8a76b3425a1acbc4469887e0ca698aecdcc27f2c28eb5f8e4faadb579fb": {
+        "name": "TweetRegistry",
+        "address": "0x569ec8e833e0ed1472ff3318753d143a7c1226d6"
+      },
+      "0x3662ed3f7c0fc89e6e53b47b7851bab736cf06cde96d293760fbe0bd66e6869c": {
+        "name": "DetailedPost",
+        "address": "0xc77bfb9d31f0c38bd5ec866ed9b55d3a06167d18"
+      }
+    },
+    "name": "development"
+  }
+}

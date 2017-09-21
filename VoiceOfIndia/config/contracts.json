@@ -1,0 +1,11 @@
+{
+  "default": {
+    "gas": "auto",
+    "contracts": {
+      "TweetRegistry": {
+        "args": [
+        ], "gas": "2000000"
+      }
+    }
+  }
+}
